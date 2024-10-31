@@ -1,0 +1,16 @@
+#plugintinyslideshow-dialog-error,
+#plugintinyslideshow-dialog-notification,
+#plugintinyslideshow-dialog-add,
+#plugintinyslideshow-dialog-update {
+	display:none;
+}
+#plugintinyslideshow-error-message,
+#plugintinyslideshow-notification-message,
+#plugintinyslideshow-add-error-message,
+#plugintinyslideshow-update-error-message {
+margin-right: 0.4em;
+}
+.required {
+	color: #B22222;
+	font-weight: bold;
+}
